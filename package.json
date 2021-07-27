@@ -8,7 +8,8 @@
     },
     "keywords": [],
     "repository": {
-        "url": "git://github.com/MauritsWilke/toolbox.git"
+        "type": "git",
+        "url": "https://github.com/MauritsWilke/toolbox.git"
     },
     "author": "Maurits Wilke",
     "license": "ISC"
