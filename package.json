@@ -7,6 +7,9 @@
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "keywords": [],
+    "repository": {
+        "url": "git://github.com/MauritsWilke/toolbox.git"
+    },
     "author": "Maurits Wilke",
     "license": "ISC"
 }
