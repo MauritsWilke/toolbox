@@ -1,3 +1,3 @@
 module.exports = {
-	JSToolbox: require(`./JavaScript/utils`)
+	JSToolbox: require(`./src/utils`)
 }
