@@ -1,3 +1,4 @@
 module.exports = {
-	JSToolbox: require(`./src/utils`)
+	JSToolbox: require(`./src/utils`),
+	Cache: require(`./src/cache`)
 }
